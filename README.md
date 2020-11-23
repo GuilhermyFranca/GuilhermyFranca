@@ -6,7 +6,7 @@ Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivess
 
 **Design de Interface e Gamificação:** é a capacidade de transformar uma Experiência Aversiva em Prazerosa como por exemplo a leitura e o atividade física, como melhorar a experiência, assiduidade e o aproveitamento do usuário que busca se organizar mais, estudar algo novo ou criar hábitos saudáveis? Resposta: Design e Gamificação!
 
-**Programação de Organização:** Aplicativos existem muitos e para todos os fins, mas como desenvolver um que realmente cause um impacto positivo na vida do usuário? Para tanto o foco do desenvolvimento não deve ser apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando e automatizado?
+**Programação e Organização:** Aplicativos existem muitos e para todos os fins, mas como desenvolver um que realmente cause um impacto positivo na vida do usuário? Para tanto o foco do desenvolvimento não deve ser apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando e automatizado?
 
 **Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como Valor, para que toda experiência e capacitação que alcancei na resolução de minha doença possa ser aplicado. Uma empresa que tenha este objetivo terá toda minha lealdade e comprometimento.
 
