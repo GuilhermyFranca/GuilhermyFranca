@@ -2,13 +2,13 @@
 
 ### Sou um designer programador brasileiro, desenvolvo aplicações para gestão e organização de projetos voltados a saúdade utilizando interfaces gameficadas.
 
-Sofri de obesidade mórbida desde a infância, como não tivesse acesso nenhum tratamento pago, devo ao **Autodidatismo e Multidisciplinaridade minha cura**. Hoje desejo utilizar o Design de Interface e tecnologias de organização e gestão para a criar programas voltados a saúde e ou fitness.
+Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivesse acesso nenhum tratamento pago, devo ao **Autodidatismo e a Multidisciplinaridade minha cura!** Hoje desejo utilizar o Design de Interface e Tecnologias de Organização e Gestão para a criar programas voltados à Saúde e ou Fitness.
 
-**Design de Interface e Gamificação:** é a capacidade de transformar uma experiência aversiva em prazerosa como por exemplo a leitura e o atividade física. Como melhorar a experiência, assiduidade e o aproveitamento do usuário que deseje se organizar, aprender ou criar hábitos mais saudáveis? Resposta: Design e Gamificação!
+**Design de Interface e Gamificação:** é a capacidade de transformar uma Experiência Aversiva em Prazerosa como por exemplo a leitura e o atividade física, como melhorar a experiência, assiduidade e o aproveitamento do usuário que busca se organizar mais, estudar algo novo ou criar hábitos saudáveis? Resposta: Design e Gamificação!
 
-**Programação e Organização:** Aplicativos existem muitos para todos os fins, mas como desenvolver algo que realmente cause um impacto positivo no usuário? Para tanto o foco do desenvolvimento não deve se focar apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando, automatizado?
+**Programação de Organização:** Aplicativos existem muitos e para todos os fins, mas como desenvolver um que realmente cause um impacto positivo na vida do usuário? Para tanto o foco do desenvolvimento não deve ser apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando e automatizado?
 
-**Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como valor, para que todo meu poder de solução que a duras penas eu pode alcançar na resolução de minha doença eu posso apregar para ajudar os outros. Uma empresa que tenha este objetivo terá toda minha lealdade e comprometimento.
+**Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como Valor, para que toda experiência e capacitação que alcancei na resolução de minha doença possa ser aplicado. Uma empresa que tenha este objetivo terá toda minha lealdade e comprometimento.
 
 Possuo formação técnica em informática, sou designer a 10 anos e programador a 5, mas posso dizer que a maior parte da minha formação é autodidata.
 
