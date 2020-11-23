@@ -4,6 +4,12 @@
 
 #### Sou um designer programador brasileiro, desenvolvo aplicações para gestão e organização de projetos voltados a saúdade utilizando interfaces gameficadas.
 
+# Stack
+
+GitHub - Java - MySql
+HTML5 - CSS3
+
+
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
