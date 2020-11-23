@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![enter image description here](https://imghub.io/i/m63Bk)
+![enter image description here](https://s1.imghub.io/m63Bk.jpg)
 
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
