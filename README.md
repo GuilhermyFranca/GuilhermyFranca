@@ -6,9 +6,9 @@
 
 ## Stack
 
-DEV: GitHub - Java - MySql
+**DEV:** GitHub - Java - MySql
 
-WEB: HTML5 - CSS3
+**WEB:** HTML5 - CSS3
 
 
 <!--
