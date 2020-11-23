@@ -18,13 +18,15 @@ Possuo formação técnica em informática, sou designer a 10 anos e programador
 
 **WEB:** HTML5 - CSS3
 
-## Siga-me
+### Siga-me
 
 **DESIGN:** behance.net/guilhermyfrana
 
 **FACE:** facebook.com/guilhermy.franca
 
-**INSTAGRAM:** instagram.com/guilhermyfranca/
+**INSTAGRAM:** instagram.com/guilhermyfranca
+
+**PINTEREST:** br.pinterest.com/guilhermyfranca
 
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
