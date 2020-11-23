@@ -1,6 +1,6 @@
 # ![enter image description here](https://s1.imghub.io/m63Bk.jpg)
 
-### Sou um designer programador brasileiro, desenvolvo aplicações para gestão e organização de projetos voltados a saúde utilizando interfaces gameficadas.
+### Sou um designer programador brasileiro, desenvolvo aplicações para gestão e organização de projetos voltados à saúde utilizando interfaces gameficadas.
 
 Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivesse acesso nenhum tratamento pago, devo ao **Autodidatismo e a Multidisciplinaridade minha cura!** Hoje desejo utilizar o Design de Interface e Tecnologias de Organização e Gestão para a criar programas voltados à Saúde e ou Fitness.
 
