@@ -10,7 +10,7 @@ Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivess
 
 **Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como Valor, para que toda experiência e capacitação que alcancei na resolução de minha doença possa ser aplicado.
 
-Possuo formação técnica em informática, sou designer a 10 anos e programador a 5, mas posso dizer que a maior parte da minha formação é autodidata.
+Possuo formação técnica em informática, sou designer a 5 anos e programador a 3, mas posso dizer que a maior parte da minha formação é autodidata.
 
 # Stack
 
