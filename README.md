@@ -18,6 +18,8 @@ Possuo formação técnica em informática, sou designer a 10 anos e programador
 
 **WEB:** HTML5 - CSS3
 
+**ACADEMIC:** UML e Estrutura de Dados
+
 ## Siga-me
 
 **DESIGN:** behance.net/guilhermyfrana
