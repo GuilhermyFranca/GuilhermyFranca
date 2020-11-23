@@ -7,7 +7,7 @@
 # Stack
 
 GitHub - Java - MySql
-HTML5 - CSS3
+-HTML5 - CSS3
 
 
 <!--
