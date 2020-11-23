@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![enter image description here](https://s1.imghub.io/m63Bk.jpg)
+# ![enter image description here](https://s1.imghub.io/m63Bk.jpg)
 
 ### Sou um designer programador brasileiro!
 
