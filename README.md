@@ -1,6 +1,8 @@
-## Hi there 👋 Sou um designer programador brasileiro!
+## Hi there 👋 
 
 ![enter image description here](https://s1.imghub.io/m63Bk.jpg)
+
+Sou um designer programador brasileiro!
 
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
