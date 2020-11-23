@@ -8,7 +8,7 @@ Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivess
 
 **Programação e Organização:** Aplicativos existem muitos e para todos os fins, mas como desenvolver um que realmente cause um impacto positivo na vida do usuário? Para tanto o foco do desenvolvimento não deve ser apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando e automatizado?
 
-**Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como Valor, para que toda experiência e capacitação que alcancei na resolução de minha doença possa ser aplicado. Uma empresa que tenha este objetivo terá toda minha lealdade e comprometimento.
+**Saúde e Fitness:** Meu desejo é trabalhar para empresas que tenham a saúde e bem estar como Valor, para que toda experiência e capacitação que alcancei na resolução de minha doença possa ser aplicado.
 
 Possuo formação técnica em informática, sou designer a 10 anos e programador a 5, mas posso dizer que a maior parte da minha formação é autodidata.
 
