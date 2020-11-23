@@ -28,8 +28,6 @@ Possuo formação técnica em informática, sou designer a 5 anos e programador 
 
 **INSTAGRAM:** instagram.com/guilhermyfranca
 
-**PINTEREST:** br.pinterest.com/guilhermyfranca
-
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
