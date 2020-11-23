@@ -12,13 +12,13 @@ Infelizmente sofri de obesidade mórbida desde a infância, mas como não tivess
 
 Possuo formação técnica em informática, sou designer a 10 anos e programador a 5, mas posso dizer que a maior parte da minha formação é autodidata.
 
-## Stack
+# Stack
 
 **DEV:** GitHub - Java - MySql
 
 **WEB:** HTML5 - CSS3
 
-### Siga-me
+## Siga-me
 
 **DESIGN:** behance.net/guilhermyfrana
 
