@@ -4,7 +4,7 @@
 
 Infelizmente sofri de obesidade mórbida desde a infância, mas como não tive acesso nenhum tratamento pago, devo ao **Autodidatismo e a Multidisciplinaridade minha cura!** Hoje desejo utilizar o Design de Interface e Tecnologias de Organização e Gestão para a criar programas voltados à Saúde e ou Fitness.
 
-**Design de Interface e Gamificação:** é a capacidade de transformar uma Experiência Aversiva em Prazerosa como por exemplo a leitura e o atividade física, como melhorar a experiência, assiduidade e o aproveitamento do usuário que busca se organizar mais, estudar algo novo ou criar hábitos saudáveis? Resposta: Design e Gamificação!
+**Design de Interface e Gamificação:** é a capacidade de transformar uma Experiência Aversiva em Prazerosa como por exemplo: a leitura e o atividade física; como melhorar a experiência, assiduidade e o aproveitamento do usuário que busque se organizar mais, estudar algo novo ou criar hábitos saudáveis? Resposta: Design e Gamificação!
 
 **Programação e Organização:** Aplicativos existem muitos e para todos os fins, mas como desenvolver um que realmente cause um impacto positivo na vida do usuário? Para tanto o foco do desenvolvimento não deve ser apenas em performance e tipos de tecnologias, mas também na organização eficiente, isto é: para estudar, para treinar, para fazer dieta o que de fato precisa ser medido, apresentando e automatizado?
 
