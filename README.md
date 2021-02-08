@@ -9,13 +9,11 @@
 
 **ACADEMIC:** UML - Estrutura de Dados
 
-## Siga-me
+## Redes Profissionais
 
 **DESIGN:** behance.net/guilhermyfrana
 
-**FACE:** facebook.com/guilhermy.franca
-
-**INSTAGRAM:** instagram.com/guilhermyfranca
+**LinkedIn** linkedin.com/in/guilhermy-frança/
 
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
