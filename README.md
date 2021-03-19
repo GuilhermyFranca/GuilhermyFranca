@@ -6,7 +6,7 @@
 
 **ACADEMIC:** UML - Estrutura de Dados
 
-**Design:** Photoshop - CorelDraw - Vegas - Illustraitor
+**DESIGN:** Photoshop - CorelDraw - Vegas - Illustraitor
 
 ## Redes Profissionais
 
