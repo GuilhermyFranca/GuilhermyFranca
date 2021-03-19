@@ -1,8 +1,8 @@
 # Stack
 
-**DEV:** GitHub - Java - MySql
+**DEV:** GitHub - JAVA - MySql
 
-**WEB:** HTML5 - CSS3
+**WEB:** HTML5 - CSS3 - Js
 
 **ACADEMIC:** UML - Estrutura de Dados
 
