@@ -4,7 +4,7 @@
 
 **WEB:** HTML5 - CSS3 - Js
 
-**ACADEMIC:** UML - Estrutura de Dados
+**ACADEMIC:** UML - Data structure
 
 **DESIGN:** Photoshop - CorelDraw - Vegas - Illustraitor
 
