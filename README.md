@@ -8,7 +8,7 @@
 
 **DESIGN:** Photoshop - CorelDraw - Vegas - Illustraitor
 
-## Redes Profissionais
+## Networks
 
 **DESIGN:** behance.net/guilhermyfrana
 
