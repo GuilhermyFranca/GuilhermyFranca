@@ -1,6 +1,3 @@
-# ![enter image description here](https://s1.imghub.io/m63Bk.jpg)
-
-
 # Stack
 
 **DEV:** GitHub - Java - MySql
@@ -13,7 +10,7 @@
 
 **DESIGN:** behance.net/guilhermyfrana
 
-**LinkedIn** linkedin.com/in/guilhermy-frança/
+**LINKEDIN** linkedin.com/in/guilhermy-frança/
 
 <!--
 **GuilhermyFranca/GuilhermyFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
