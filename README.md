@@ -10,7 +10,7 @@
 
 ## Networks
 
-**DESIGN:** behance.net/guilhermyfrana
+**DESIGN:** behance.net/guilhermyfranca
 
 **LINKEDIN** linkedin.com/in/guilhermy-frança/
 
