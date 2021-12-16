@@ -1,12 +1,11 @@
 # Stack
 
-**DEV:** GitHub - JAVA - MySql
+**BACK-END:** JAVA     | PYTHON
+              BIG DATA | CLOUND
 
-**WEB:** HTML5 - CSS3 - Js
+**FRONT-END:**  CSS3   | JAVASCRIPT
 
-**ACADEMIC:** UML - Data structure
-
-**DESIGN:** Photoshop - CorelDraw - Vegas - Illustraitor
+**METHODOLOGY** DATA STRUTURE | DESIGN PATTERNS | SCRUM(STORYTELLING)
 
 ## Networks
 
