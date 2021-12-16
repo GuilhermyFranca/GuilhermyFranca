@@ -6,8 +6,6 @@
 
 **METHODOLOGY** DATA STRUTURE | DESIGN PATTERNS | SCRUM
 
-Sou um programador versátil com bons conhecimentos em Estrutura de Dados e Design Pattern.
-
 ## Networks
 
 **DESIGN:** behance.net/guilhermyfranca
