@@ -6,7 +6,7 @@
 
 **METHODOLOGY** DATA STRUTURE | DESIGN PATTERNS | SCRUM
 
-Sou um programador versátil com bons conhecimentos em Estrutura de Dados e Design Pattern. Possuo experiência em back e front-end como migração de Big-data Mainframe para Cloud, implementação de ERPs e APIs, desenvolvimento de Loja Virtual e E-commerce. 
+Sou um programador versátil com bons conhecimentos em Estrutura de Dados e Design Pattern.
 
 ## Networks
 
